@@ -74,7 +74,7 @@ attendance_system/
    python app.py
    ```
 6. Open **http://127.0.0.1:5000** in your browser.
-   - Try roll numbers `22CSD001` to `22CSD060`.
+   - Try roll numbers `324103383001` to `325103383L06`.
    - Admin login: **username** `admin`, **password** `admin123` at `/admin/login`.
 
 ## 📧 Enabling Real Email Alerts
